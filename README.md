@@ -11,7 +11,7 @@ Introduction
 
 Neos CMS package that loads a normal editable page for displaying a 404 error.
 
-Compatible with Neos 4.3 - 5.x 
+Compatible with Neos 4.3 - 7.x 
 
 Supports multiple content dimensions with URI segments and empty segments for default dimensions.
 
